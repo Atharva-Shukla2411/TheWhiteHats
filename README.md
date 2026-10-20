@@ -1,1 +1,6 @@
 # TheWhiteHats
+Hello, My name is Atharva Shukla. I am a first year BTECH student currently pursuing Computer Science and Engineering, specializing in AI and ML.
+
+The reason why i want to join WhiteHats is because of my interest in coding and ethical hacking. I have always been fascinated by computers. In 6th grade, I learned my first programming language, C. Although i dont remember much of it, it was a start to my coding journey and since then, i have never looked back. I have good knowledge in python and java, Java being my main language which i have been learning and gaining a lot of knowledge in since the past 4 years. WhiteHats cannot only help me gain exposure to my interest but it can also help me gain knowledge in cybersecurity. It is one of the clubs which i am extremely interested in as it can make me think like an ethical hacker and help me be safe from such crimes.
+
+One cybersecurity news that i read about was SBI potentially being hacked on 20th October, 2026 (which is the date i am writing this about). An anonymous hacker group names 'Siriusim' claimed on the dark web that is has breached SBI database and has access to details of 3.75 lack account holders. The group published sample customer details as proff, but the bank has not confirmed the breach yet.
